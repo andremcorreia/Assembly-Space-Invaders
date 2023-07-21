@@ -7,7 +7,7 @@ To run the game, you need to use the provided simulator.jar file with the Java D
 ## How to Run
 Follow the steps below to run the Assembly-Space-Invaders game:
 
-1. Ensure you have the JDK installed on your system.
+1. Ensure you have JDK installed on your system.
 2. Clone or download this repository to your local machine.
 3. Locate and run the "simulator.jar" file in the repository.
 4. Drag and drop the "projecto.cir" file into the "simulator.jar" window.
